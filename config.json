@@ -1,0 +1,1006 @@
+{
+  "videos": {
+    "balancing": {
+      "source": "educational",
+      "title": "Balancing Academics & Athletics as a Student-Athlete",
+      "url": "https://example.com/video/balancing",
+      "video": "https://example.com/video/balancing",
+      "youtube": "SaaGXQOJKBc",
+      "transcript": "assets/videos/balancing.json"
+    },
+    "middle_school_stem": {
+      "source": "educational",
+      "title": "Middle School STEM",
+      "url": "https://example.com/video/middle_school_stem",
+      "video": "https://example.com/video/middle_school_stem",
+      "youtube": "NHjzpyHSFt4",
+      "transcript": "assets/videos/middle_school_stem.json"
+    },
+    "planning": {
+      "source": "educational",
+      "title": "Planning & Organization",
+      "url": "https://example.com/video/planning",
+      "video": "https://example.com/video/planning",
+      "youtube": "0AKAuRby7n8",
+      "transcript": "assets/videos/planning.json"
+    },
+    "science_of_motivation": {
+      "source": "educational",
+      "title": "The Science of Motivation",
+      "url": "https://example.com/video/science_of_motivation",
+      "video": "https://example.com/video/science_of_motivation",
+      "youtube": "pZT-FZqfxZA",
+      "transcript": "assets/videos/science_of_motivation.json"
+    },
+    "second_language": {
+      "source": "educational",
+      "title": "How Do Kids Learn a Second Language?",
+      "url": "https://example.com/video/second_language",
+      "video": "https://example.com/video/second_language",
+      "youtube": "K_n8xZ9Pws8",
+      "transcript": "assets/videos/second_language.json"
+    }
+  },
+
+  "advisors": {
+    "emily-rodriguez": {
+      "img": "assets/img/emily-rodriguez.jpg",
+      "name": "Emily Rodriguez",
+      "grade": "6th Grade",
+      "school-type": "Public Middle School",
+      "specialties": "Science, Math, Robotics",
+      "academic-performance": {
+        "grades": "A's and B's in STEM subjects, C's in Language Arts",
+        "assessment-scores": "High in Math and Science, below average in ELA",
+        "attendance": "95% (rare absences)"
+      },
+      "goals": [
+        "Get into an advanced STEM program in high school",
+        "Improve reading and writing skills to match STEM proficiency",
+        "Participate in regional robotics competitions"
+      ],
+      "challenges": [
+        "Struggles with essay writing and reading comprehension",
+        "Finds non-STEM subjects unengaging",
+        "Needs structured guidance for time management"
+      ],
+      "interests": "Coding, robotics club, science fairs, math puzzles, space exploration, engineering challenges, hands-on experiments",
+      "highlights": {
+        "balancing": [
+          {
+            "p": "<strong>Student-Athlete Identity</strong>: The speakers define a student-athlete as 'someone who is dedicated to learn both in the classroom and on the field,' which relates to your challenge of finding non-STEM subjects unengaging. Just as they must excel in both athletics and academics, your success will depend on balancing your passion for Science, Math, and Robotics with developing essential Language Arts skills.",
+            "start_time": 42.06
+          },
+          {
+            "p": "<strong>Time Management Challenge</strong>: 'Learning to balance comes with time management and a willingness to make short sacrifices so that you can achieve your goals in the long run.' This directly addresses your need for structured guidance in time management. Their approach of focusing on 'every little thing' in a tight schedule offers a practical framework for balancing your STEM interests with subjects you find less engaging.",
+            "start_time": 58.76
+          },
+          {
+            "p": "<strong>Beyond Single-Subject Identity</strong>: 'I shouldn't associate my identity with just sports or just my grades, but beyond that it's all the valuable lessons you learn.' This perspective speaks to your challenge of finding non-STEM subjects unengaging by suggesting that all classroom experiences shape your complete identity, not just the subjects where you currently excel with A's and B's.",
+            "start_time": 94.74
+          },
+          {
+            "p": "<strong>Academic Rigor</strong>: When they emphasize that 'school is not a joke' and mention AP and honors classes, they're highlighting the importance of academic excellence across all subjects. This connects to your goal of getting into an advanced STEM program, which will require strengthening your C's in Language Arts to match your strong performance in STEM subjects.",
+            "start_time": 116.98
+          },
+          {
+            "p": "<strong>Embracing Challenges</strong>: The salutatorian's drive to take 'challenging classes' through a 'desire to learn and be challenged academically' provides a model for approaching your reading and writing difficulties. Just as they balance rigorous coursework with athletics, you can view your struggles with essay writing and reading comprehension as opportunities for growth rather than obstacles.",
+            "start_time": 130.98
+          },
+          {
+            "p": "<strong>Future Planning</strong>: Their college search for schools with 'great academic programs' relates to your goal of getting into an advanced STEM program. Their emphasis on finding the 'best balance' between different aspects reminds us that developing well-rounded skills now, including in areas where you struggle, will position you well for future academic environments where communication skills are essential.",
+            "start_time": 155.93
+          },
+          {
+            "p": "<strong>Mental Endurance</strong>: The speakers describe how it's 'challenging mentally and physically to stay focused for such long periods of time,' which parallels your challenge of maintaining engagement with subjects you find less naturally interesting. Their perseverance in difficult situations offers strategies for developing the mental stamina needed to improve in Language Arts.",
+            "start_time": 205.93
+          },
+          {
+            "p": "<strong>Transferable Skills</strong>: 'Learning those leadership skills from my teammates and the experience I've had on the field has allowed me to apply those things in the classroom and ultimately become a better student.' This final insight suggests how your strengths in robotics, coding, and hands-on experiments might provide approaches that could be applied to Language Arts, helping transform these challenges into areas of growth.",
+            "start_time": 241.4
+          }
+        ],
+        "middle_school_stem": [
+          {
+            "p": "<strong>Ideal STEM Student</strong>: 'I love science and hands-on science activities' describes the ideal middle school STEM student - which perfectly aligns with your specialties in Science, Math, and Robotics. Your passion for 'hands-on experiments' and participation in 'robotics club' makes you exactly the type of student this program is designed for.",
+            "start_time": 0.0
+          },
+          {
+            "p": "<strong>Rigorous Academic Environment</strong>: The program emphasizes 'a rigorous and unique program of study' with 'core areas of mathematics and science' - subjects where you excel with 'A's and B's.' This environment would challenge you academically while building on your strengths, potentially helping address your challenge of finding non-STEM subjects unengaging by integrating technology and engineering applications.",
+            "start_time": 32.58
+          },
+          {
+            "p": "<strong>Collaborative Project-Based Learning</strong>: 'We regularly do what's called STEM projects where we get together and we build stuff, we design stuff.' This collaborative approach addresses your interest in 'coding, robotics club,' while potentially helping with your time management challenges through structured group work and deadlines.",
+            "start_time": 41.28
+          },
+          {
+            "p": "<strong>Applied Learning Opportunities</strong>: The focus on 'apply learned concepts through project tasks that emphasize application and synthesis' directly supports your goal to 'participate in regional robotics competitions' by providing practical experience in applying theoretical knowledge to real-world problems.",
+            "start_time": 57.54
+          },
+          {
+            "p": "<strong>Robotics and Coding Integration</strong>: 'Robotics and coding applications are also incorporated for student engagement' - this perfectly aligns with your interests in 'coding, robotics club' and would build on your existing strengths while providing structured learning environments that might help with your time management challenges.",
+            "start_time": 76.17
+          },
+          {
+            "p": "<strong>Problem-Solving Challenges</strong>: 'Problem-solving probably like thinking of different things to do when your original plan doesn't work' describes the iterative process that can help address your challenges with 'essay writing and reading comprehension' by applying the same analytical thinking you use in STEM to develop alternative approaches when facing difficulties.",
+            "start_time": 92.81
+          },
+          {
+            "p": "<strong>Balancing Challenge and Engagement</strong>: 'Definitely harder it's more involved and there's a lot more homework but it also is more hands-on' acknowledges the increased workload while highlighting the engaging nature of hands-on learning. This balance could help with your challenge of 'finding non-STEM subjects unengaging' by showing how rigor and engagement can coexist.",
+            "start_time": 107.39
+          },
+          {
+            "p": "<strong>Future Opportunities</strong>: 'You have more opportunities in fields like engineering, science, and mathematics' connects directly to your goal of getting 'into an advanced STEM program in high school' by highlighting how middle school STEM programs create pathways to future academic and career success in your areas of interest.",
+            "start_time": 112.31
+          }
+        ],
+        "planning": [
+          {
+            "p": "<strong>Task Management for STEM Projects</strong>: 'Pick a system that makes it easy to record tasks' details and due dates' would help you track deadlines for your robotics club, science fairs, and coding projects while ensuring you don't neglect assignments in non-STEM subjects where you currently earn C's.",
+            "start_time": 97.64
+          },
+          {
+            "p": "<strong>Digital Calendar Integration</strong>: 'A calendar is best for events that will happen at a specific time' provides a tool to manage your structured time commitments for robotics competitions, science fairs, and study sessions for improving your reading comprehension and essay writing skills.",
+            "start_time": 131.5
+          },
+          {
+            "p": "<strong>Organized Note-Taking Systems</strong>: 'Next you need to figure out how to organize your notes' offers strategies to help you excel in both your strong STEM subjects and improve in Language Arts by creating systems that make information retrieval efficient, addressing your need for structure.",
+            "start_time": 146.78
+          },
+          {
+            "p": "<strong>Weekly Planning Routine</strong>: 'I recommend doing a weekly planning session' offers a structured approach to time management that would help you allocate appropriate time to both your STEM interests and the subjects where you need additional focus, addressing your challenge of needing guidance for time management.",
+            "start_time": 230.0
+          },
+          {
+            "p": "<strong>Daily Review Habit</strong>: 'I also recommend doing a daily planning session' provides a framework for consistent progress in all subjects, helping you maintain your A's and B's in STEM while working to improve your C's in Language Arts through regular engagement with challenging material.",
+            "start_time": 245.0
+          },
+          {
+            "p": "<strong>Batching Similar Tasks</strong>: 'Try to batch your tasks. If you have a bunch of easy, low-energy tasks, plan ahead and combine them' provides an efficiency strategy that would help you manage your time between STEM activities you enjoy and the reading/writing work you find challenging.",
+            "start_time": 461.9
+          },
+          {
+            "p": "<strong>Prioritizing Challenging Work</strong>: 'This will free up lots of uninterrupted time that you can dedicate to your really challenging work' offers a framework for allocating quality focus time to improve your reading comprehension and essay writing skills while maintaining excellence in your STEM subjects.",
+            "start_time": 470.1
+          },
+          {
+            "p": "<strong>Reflection and Adjustment</strong>: 'Compare what you plan to do with what you've actually got done, and if there's a gap, try to figure out what caused it' provides a structured approach to identifying obstacles in your learning process, particularly helpful for understanding why you find non-STEM subjects unengaging.",
+            "start_time": 489.4
+          }
+        ],
+        "science_of_motivation": [
+          {
+            "p": "<strong>Complex Problem-Solving Under Pressure</strong>: 'Those offered the high reward performed 32% slower than the small reward group' relates to how pressure might affect your performance differently in various subjects, especially during tests or when writing essays.",
+            "start_time": 46.64
+          },
+          {
+            "p": "<strong>The Distraction Effect</strong>: 'When we're given a task that requires problem solving, economic or emotional pressure can cause the focus to shift' highlights how pressure about grades might actually be hindering your performance in challenging subjects like Language Arts.",
+            "start_time": 53.54
+          },
+          {
+            "p": "<strong>Intrinsic vs. Extrinsic Motivation</strong>: 'It seems that rewards may cancel out our natural sense of play' explains why external rewards might be less effective for improving your reading comprehension than discovering personal connections to the material that make it inherently interesting.",
+            "start_time": 89.26
+          },
+          {
+            "p": "<strong>Finding Enjoyment in Non-STEM Subjects</strong>: 'Play is the strongest motivator for sustained behavioral changes' suggests that finding aspects of Language Arts that you genuinely enjoy could help improve your C grades, just as your natural interest in Science and Math contributes to your A's and B's in those subjects.",
+            "start_time": 95.36
+          },
+          {
+            "p": "<strong>Goal Setting for Better Results</strong>: 'Those focused on weight loss spent 32% less time exercising than those who said they want to feel better' suggests that framing your Language Arts goals around communication skills for your robotics presentations might be more motivating than just focusing on grades.",
+            "start_time": 127.0
+          },
+          {
+            "p": "<strong>Optimism vs. Realistic Planning</strong>: 'While it's always good to have a positive attitude, optimism may not always be the best strategy' suggests balancing your confidence in STEM with realistic planning for the extra effort needed in Language Arts.",
+            "start_time": 132.98
+          },
+          {
+            "p": "<strong>Mental Contrasting Technique</strong>: 'Imagining a goal coming true and then thinking through the obstacles that stand in your way is the best mixed approach' offers a strategy to help you plan how to balance your STEM interests with improving your reading and writing skills.",
+            "start_time": 159.08
+          }
+        ],
+        "second_language": [
+          {
+            "p": "<strong>Consistency is Key</strong>: 'We have to be patient and support them year after year' emphasizes that improving in Language Arts requires consistent effort over time, similar to how you've developed your STEM skills.",
+            "start_time": 78.24
+          },
+          {
+            "p": "<strong>Early Learning Advantage</strong>: 'The earlier the better' when learning a second language, as young children can more easily recognize speech sounds that don't exist in their native language, which is particularly relevant for your STEM-focused mind that appreciates efficiency.",
+            "start_time": 105.09
+          },
+          {
+            "p": "<strong>Critical Period for Language Acquisition</strong>: 'Perhaps by age 3 or 5, but certainly before puberty for most people' is when language skills develop best, showing why structured language learning now can benefit your academic performance across all subjects.",
+            "start_time": 147.55
+          },
+          {
+            "p": "<strong>Immersion Learning Strategy</strong>: 'Immerse your child in the language as much as possible' suggests that surrounding yourself with language materials (like Spanish audiobooks while working on robotics projects) could help improve your Language Arts skills.",
+            "start_time": 216.11
+          },
+          {
+            "p": "<strong>Active vs. Passive Learning</strong>: 'Passive listening is less effective' than interactive engagement, indicating that active participation in Language Arts classes will yield better results than just listening to lectures.",
+            "start_time": 240.95
+          },
+          {
+            "p": "<strong>No Developmental Concerns</strong>: 'Learning a second language does not harm the development of other languages' reassures that focusing on academics might not negatively impact your STEM excellence.",
+            "start_time": 253.91
+          },
+          {
+            "p": "<strong>Cognitive Development Benefits</strong>: 'There are considerable social, cognitive, and linguistic benefits to bilingualism' that can enhance your problem-solving abilities in both STEM and non-STEM subjects like Language Arts.",
+            "start_time": 262.13
+          },
+          {
+            "p": "<strong>Practical Application Method</strong>: 'Send them to a French cooking class... in which they need to ask for a croissant in French' suggests finding ways to make Language Arts practical, like using it to document or present your robotics projects.",
+            "start_time": 284.15
+          }
+        ]
+      }
+    },
+    "michael-thompson": {
+      "img": "assets/img/micheal-thompson.jpg",
+      "name": "Michael Thompson",
+      "grade": "9th Grade",
+      "school-type": "Suburban High School",
+      "specialties": "Basketball, Leadership, Physical Fitness",
+      "academic-performance": {
+        "grades": "B's and C's overall, A in Physical Education",
+        "assessment-scores": "Average in core subjects",
+        "attendance": "92% (occasional absences due to sports)"
+      },
+      "goals": [
+        "Maintain eligibility for varsity sports",
+        "Improve math skills to qualify for NCAA recruitment standards",
+        "Get into a college with a strong athletics program"
+      ],
+      "challenges": [
+        "Balancing academics and sports commitments",
+        "Needs motivation in non-athletic subjects",
+        "Struggles with algebra and test-taking strategies"
+      ],
+      "interests": "Basketball, sports analytics, nutrition, sports psychology, teamwork, leadership skills",
+      "highlights": {
+        "balancing": [
+          {
+            "p": "<strong>Student-Athlete Identity</strong>: 'A student-athlete is someone who is dedicated to learn both in the classroom and on the field or in the court, and they really dedicate their life and they use their talents and try to get the best out of themselves.' This definition directly addresses your primary challenge of balancing academics and sports commitments. As a basketball player with B's and C's, embracing this dual identity can help you see academic work as equally important to your athletic development.",
+            "start_time": 42.06
+          },
+          {
+            "p": "<strong>Time Management Strategy</strong>: 'Learning to balance the academic and athlete life comes with time management and a willingness to make short sacrifices so that you can achieve your goals in the long run.' This advice speaks directly to your goal of maintaining eligibility for varsity sports while improving your math skills for NCAA standards, showing how short-term sacrifices lead to long-term athletic opportunities.",
+            "start_time": 58.76
+          },
+          {
+            "p": "<strong>Holistic Identity Development</strong>: 'I shouldn't associate my identity with just sports or just my grades, but beyond that it's all the valuable lessons you learn.' This perspective can help address your need for motivation in non-athletic subjects by recognizing how academic skills contribute to your overall development as both an athlete and a person.",
+            "start_time": 94.74
+          },
+          {
+            "p": "<strong>Academic Rigor Reality Check</strong>: 'School here is not a joke. Like we have AP classes, honors classes.' While you may be focused on basketball, this reminder about academic standards connects to your goal of qualifying for NCAA recruitment, which requires meeting specific academic benchmarks in core subjects, including the algebra you currently struggle with.",
+            "start_time": 116.98
+          },
+          {
+            "p": "<strong>Academic Challenge as Growth</strong>: 'I wanted to take challenging classes... I had a desire to learn and be challenged academically.' This mindset shift could help transform your view of algebra and other academic challenges from obstacles to opportunities for growth, addressing your need for motivation in non-athletic subjects.",
+            "start_time": 130.98
+          },
+          {
+            "p": "<strong>College Athletic Recruitment</strong>: 'I was looking at schools that had great academic programs and D1 soccer teams.' This directly connects to your goal of getting into a college with a strong athletics program, emphasizing that athletic recruitment requires academic performance too - reinforcing why improving your math skills is essential for your athletic future.",
+            "start_time": 155.93
+          },
+          {
+            "p": "<strong>Managing Long Seasons</strong>: 'The most challenging part as a soccer player specifically is managing the long seasons because we practice year round... it can be challenging mentally and physically to stay focused for such long periods of time.' This insight speaks to your experience as a basketball player with occasional absences due to sports, offering perspective on maintaining academic focus during intense athletic seasons.",
+            "start_time": 192.25
+          },
+          {
+            "p": "<strong>Leadership Transfer</strong>: 'Learning those leadership skills from my teammates and the experience I've had on the field has allowed me to apply those things in the classroom.' This powerful connection shows how your strengths in leadership and teamwork can be applied to academic settings, potentially transforming your approach to group study and classroom participation.",
+            "start_time": 246.62
+          }
+        ],
+        "middle_school_stem": [
+          {
+            "p": "<strong>Hands-on Learning Approach</strong>: 'I love science and hands-on science activities, stuff like that.' This approach to learning could help address your challenge with algebra by connecting abstract mathematical concepts to practical applications, similar to how you understand basketball statistics and sports analytics.",
+            "start_time": 0.0
+          },
+          {
+            "p": "<strong>Structured Learning Environment</strong>: The 'rigorous and unique program of study' offers the kind of structured approach that could help you manage your academic responsibilities alongside your athletic commitments, providing clear expectations and frameworks similar to how athletic training is structured.",
+            "start_time": 32.58
+          },
+          {
+            "p": "<strong>Applied Mathematics</strong>: The program emphasizes 'a rigorous and unique program of study' with 'core areas of mathematics and science' - subjects where you excel with 'A's and B's.' This environment would challenge you academically while building on your strengths, potentially helping address your challenge of finding non-STEM subjects unengaging by integrating technology and engineering applications.",
+            "start_time": 36.3
+          },
+          {
+            "p": "<strong>Project-Based Teamwork</strong>: 'We regularly do what's called STEM projects where we get together and we build stuff, we design stuff.' This collaborative approach mirrors the teamwork you excel at in basketball, showing how your leadership skills could transfer to group projects in math and science to help maintain your academic eligibility.",
+            "start_time": 41.28
+          },
+          {
+            "p": "<strong>Technology Integration</strong>: 'Robotics and coding applications are also incorporated for student engagement.' These technology tools could provide alternative ways to understand mathematical concepts that you struggle with in algebra, potentially connecting to your interest in sports analytics through data analysis and visualization.",
+            "start_time": 76.17
+          },
+          {
+            "p": "<strong>Problem-Solving Strategies</strong>: 'Problem-solving probably like thinking of different things to do when your original plan doesn't work.' This mindset directly applies to your test-taking challenges, offering a strategic approach similar to how you might adjust tactics during a basketball game when the original play doesn't work.",
+            "start_time": 92.81
+          },
+          {
+            "p": "<strong>Balancing Challenge and Reward</strong>: 'Definitely harder it's more involved and there's a lot more homework but it also is more hands-on.' This honest assessment of workload versus engagement parallels your challenge of balancing academics and sports - acknowledging that while academic work requires effort, the hands-on rewards can make it worthwhile, just like the hard work of athletic training.",
+            "start_time": 107.39
+          },
+          {
+            "p": "<strong>Future Opportunities</strong>: 'You have more opportunities in fields like engineering, science, and mathematics.' While your primary goal is athletic recruitment, developing STEM skills opens additional career pathways that could complement your sports interests, such as sports medicine, athletic training technology, or sports analytics - creating a backup plan that still connects to your passion.",
+            "start_time": 112.31
+          }
+        ],
+        "planning": [
+          {
+            "p": "<strong>Planning vs. Execution Mode</strong>: 'As a student, you have two modes, which I like to call planning mode and robot mode.' This framework can help you balance your basketball commitments with academics by clearly separating your planning time from your execution time, creating a structure similar to how you approach practice versus game day.",
+            "start_time": 6.04
+          },
+          {
+            "p": "<strong>Organizational System Foundation</strong>: 'To get started, you're going to need an organizational system.' Just as basketball has systems and plays, creating a reliable system for tracking assignments and due dates can help address your challenge of balancing academics with sports commitments, ensuring nothing falls through the cracks during busy game weeks.",
+            "start_time": 43.58
+          },
+          {
+            "p": "<strong>Task Management for Athletes</strong>: 'Your task manager is the place where you record the stuff that you need to get done.' Implementing this tool can help you track both your athletic responsibilities and academic deadlines, particularly for algebra assignments that you find challenging, creating a game plan for tackling them.",
+            "start_time": 83.44
+          },
+          {
+            "p": "<strong>Digital Organization Strategy</strong>: 'Create a folder structure that's well-defined yet flexible.' This approach to organizing your digital schoolwork mirrors how teams organize their playbooks and game strategies, making it easier to find and review materials for subjects you find challenging, like algebra.",
+            "start_time": 131.76
+          },
+          {
+            "p": "<strong>Weekly Planning Ritual</strong>: 'The main purpose of your weekly planning session is to look at everything that's coming due during the upcoming week.' Implementing this Sunday ritual can help you anticipate busy periods and balance your basketball schedule with academic deadlines, similar to how coaches plan the week's practices around upcoming games.",
+            "start_time": 271.44
+          },
+          {
+            "p": "<strong>Breaking Down Big Projects</strong>: 'If you've just been assigned a big project, you can break that project down into small chunks and assign due dates to those chunks.' This strategy directly addresses your struggle with algebra by making complex problems more manageable, similar to how you might break down complex basketball plays into individual skills to practice.",
+            "start_time": 295.58
+          },
+          {
+            "p": "<strong>Daily Game Plan</strong>: 'Create a daily plan... a list of the events you've got planned and the tasks you want to accomplish.' This daily focus can help you maintain academic eligibility by ensuring you complete necessary schoolwork even on days with intense basketball commitments, treating academic tasks with the same dedication as your athletic training.",
+            "start_time": 316.56
+          },
+          {
+            "p": "<strong>Weekly Review for Continuous Improvement</strong>: 'Compare what you planned to do with what you've actually got done, and if there's a gap, try to figure out what caused it.' This reflection process mirrors athletic performance review, helping you identify and address the specific challenges affecting your academic performance, particularly in algebra.",
+            "start_time": 348.12
+          }
+        ],
+        "science_of_motivation": [
+          {
+            "p": "<strong>Distraction Effect</strong>: 'Economic or emotional pressure can cause the focus to shift to the motivator, ultimately dividing your attention and reducing performance.' This explains why pressure about NCAA eligibility might actually make algebra harder—the stress becomes a distraction rather than motivation.",
+            "start_time": 58.66
+          },
+          {
+            "p": "<strong>Brain Activity Patterns</strong>: 'fMRI scans reveal that people who complete a challenge for fun and people who do it for a reward show similar activity throughout the brain.' This suggests that finding enjoyment in academic challenges could activate the same rewarding brain patterns you experience when playing basketball well.",
+            "start_time": 68.02
+          },
+          {
+            "p": "<strong>Intrinsic Motivation Advantage</strong>: 'It seems that rewards may cancel out our natural sense of play.' This insight connects directly to your basketball passion versus academic challenges. Just as you're naturally motivated on the court, finding intrinsic motivation in subjects like algebra—beyond just NCAA eligibility—could transform your academic experience.",
+            "start_time": 89.26
+          },
+          {
+            "p": "<strong>Play as a Powerful Motivator</strong>: 'It turns out that play is the strongest motivator for sustained behavioral changes.' This principle suggests approaching challenging subjects like algebra with the same playful exploration you bring to basketball—finding ways to make learning feel more like practice drills than forced homework.",
+            "start_time": 95.36
+          },
+          {
+            "p": "<strong>Activity Selection</strong>: 'Pick something you actually like doing.' Finding aspects of algebra that connect to your interests—like sports statistics or physics of basketball—can transform a challenging subject into something more engaging, similar to how you naturally engage with basketball training.",
+            "start_time": 112.26
+          },
+          {
+            "p": "<strong>Goal Alignment</strong>: 'A study investigating reasons for exercise found that those focused on weight loss spent 32% less time exercising than those who said they want to feel better in day to day life.' Similarly, studying just for grades may be less effective than connecting algebra to your basketball aspirations, like understanding statistics or calculating trajectories.",
+            "start_time": 127.0
+          },
+          {
+            "p": "<strong>Mental Contrasting Technique</strong>: 'Imagining a goal coming true and then thinking through the obstacles that stand in your way is the best mixed approach. This is known as mental contrasting.' This evidence-based strategy could help you develop more effective plans for improving your algebra skills by balancing optimism about your qualifications with realistic preparation for application challenges.",
+            "start_time": 159.08
+          }
+        ],
+        "second_language": [
+          {
+            "p": "<strong>Social Context for Learning</strong>: 'The social context in which the child is immersed also helps the learning process. Parents, family and close friends are especially helpful for learners.' Leveraging your team environment and leadership skills by forming study groups with teammates could create a supportive social context for academic improvement.",
+            "start_time": 58.66
+          },
+          {
+            "p": "<strong>Consistency for Academic Success</strong>: 'We have to be patient and support them year after year. There are no magic tricks.' This directly addresses your challenge of balancing academics with basketball commitments - just as language learning requires consistent effort over time, improving your algebra skills for NCAA eligibility will require steady commitment rather than quick fixes.",
+            "start_time": 78.24
+          },
+          {
+            "p": "<strong>Complex Process Requiring Time</strong>: 'Learning another language is a complex process that requires time and patience.' Similar to how you've developed your basketball skills through years of practice, improving in challenging academic subjects like algebra also requires persistent effort and patience, especially as you work toward NCAA recruitment standards.",
+            "start_time": 85.5
+          },
+          {
+            "p": "<strong>Active vs. Passive Learning</strong>: 'They need to interact in the language as much as possible. Passive listening is less effective.' This insight applies directly to your struggle with algebra - actively engaging with math concepts through practice problems and applications (perhaps related to basketball statistics) will be more effective than passively reviewing notes or watching demonstrations.",
+            "start_time": 189.11
+          },
+          {
+            "p": "<strong>No Developmental Concerns</strong>: 'Learning a second language does not harm the development of other languages.' This counters potential concerns that focusing on academics might hurt your athletic development—in fact, developing both simultaneously creates a more well-rounded student-athlete profile attractive to college recruiters.",
+            "start_time": 210.5
+          },
+          {
+            "p": "<strong>Cognitive Development Benefits</strong>: 'In fact there are considerable social, cognitive, and linguistic benefits to bilingualism.' Similarly, developing strong academic skills alongside your athletic abilities creates cognitive benefits that enhance your overall performance both on the court and in the classroom, supporting your goal of college recruitment.",
+            "start_time": 222.53
+          },
+          {
+            "p": "<strong>Effective Learning Through Necessity</strong>: 'If the child needs to speak the language, that is the most effective way for them to learn it.' This principle applies to your academic challenges—finding situations where you need to use algebra (perhaps in analyzing basketball performance statistics) creates the necessity that accelerates learning.",
+            "start_time": 245.5
+          },
+          {
+            "p": "<strong>Practical Application Approach</strong>: 'Send them to a French cooking class, for example, in which they need to ask for a croissant in French in order to get one.' This strategy of learning through necessity and practical application could help you with algebra by finding ways to apply mathematical concepts to basketball statistics, game strategies, or physical training metrics.",
+            "start_time": 257.67
+          }
+        ]
+      }
+    },
+    "sophia-patel": {
+      "img": "assets/img/sophia-patel.jpg",
+      "name": "Sophia Patel",
+      "grade": "11th Grade",
+      "school-type": "Magnet School",
+      "specialties": "Advanced Placement (AP) Courses, Debate Team, National Honor Society",
+      "academic-performance": {
+        "grades": "Straight A's",
+        "assessment-scores": "SAT: 1400+, AP exams: Mostly 4s and 5s",
+        "attendance": "99% (near-perfect attendance)"
+      },
+      "goals": [
+        "Get into a top-tier university with scholarships",
+        "Maintain a high GPA and class ranking",
+        "Gain leadership roles in extracurricular activities"
+      ],
+      "challenges": [
+        "High levels of stress and pressure",
+        "Struggles with work-life balance",
+        "Needs mentorship on college admissions strategy"
+      ],
+      "interests": "Competitive debate, political science, philosophy, volunteering, essay writing, student government",
+      "highlights": {
+        "balancing": [
+          {
+            "p": "<strong>Student-Athlete Identity</strong>: 'I would define student athlete as someone who is dedicated to learn both in the classroom and on the field or in the court, and they really dedicate their life and they use their talents and try to get the best out of themselves.' This perspective can help you reframe your high stress levels as a natural part of pursuing excellence in multiple domains, similar to how student-athletes balance their dual commitments.",
+            "start_time": 42.06
+          },
+          {
+            "p": "<strong>Time Management and Sacrifice</strong>: 'Learning to balance the academic and athlete life at IMG comes with time management and a willingness to make short sacrifices so that you can achieve your goals in the long run.' This directly addresses your work-life balance challenge, suggesting that strategic short-term sacrifices can lead to achieving your goals of top-tier university admission and leadership roles.",
+            "start_time": 58.76
+          },
+          {
+            "p": "<strong>Prioritization Skills</strong>: 'The most challenging aspect I think would just be finding the balance between making sure you know what your priorities are. The schedule is so tight and there's so many things you have to do in one day that you really have to focus on every little thing.' This insight provides practical guidance for structuring your time between AP coursework, debate team, and National Honor Society commitments.",
+            "start_time": 70.0
+          },
+          {
+            "p": "<strong>Adaptation Period</strong>: 'It did take me a couple months to adapt to the experience here but once I did I really enjoyed it.' This perspective can help you approach your reading and writing challenges with patience, recognizing that improvement in non-STEM subjects may require an adjustment period before you see progress and potentially find engagement.",
+            "start_time": 85.0
+          },
+          {
+            "p": "<strong>Holistic Identity Development</strong>: 'I shouldn't associate my identity with just sports or just my grades, but beyond that it's all the valuable lessons you learn on the field or in the classroom that really shape your identity.' This insight addresses your tendency to find non-STEM subjects unengaging by suggesting that all learning experiences contribute to your development, not just the subjects where you currently excel.",
+            "start_time": 94.74
+          },
+          {
+            "p": "<strong>Academic Rigor Across Subjects</strong>: 'But I definitely think school here is not a joke. Like we have AP classes and honor classes just like everyone else. It's definitely difficult to balance with sports, but I think just with hard work, you can get through.' As someone taking multiple AP courses while maintaining straight A's, this validates your experience while emphasizing that consistent effort can lead to improvement, supporting your goal of getting into a top-tier university.",
+            "start_time": 116.98
+          },
+          {
+            "p": "<strong>Intrinsic Motivation</strong>: 'I have been driven to take challenging classes throughout high school I think mostly through my desire to learn and be challenged academically.' This mindset could help you reframe your approach to essay writing and reading comprehension as opportunities for growth rather than obstacles, potentially increasing your engagement with these subjects.",
+            "start_time": 130.98
+          },
+          {
+            "p": "<strong>College Selection Strategy</strong>: 'When I was going through my college search, I was looking at schools that had great academic programs... I found that at Rice the community was super welcoming and supportive and the school really fit my personality well.' This provides valuable mentorship on college admissions strategy, emphasizing fit beyond just prestige, which could help with your college application process.",
+            "start_time": 155.93
+          },
+          {
+            "p": "<strong>Balance as Selection Criteria</strong>: 'I chose UC Irvine because I felt it had the best balance for me between soccer and school.' This perspective offers a framework for your college selection process—finding institutions that support both your academic excellence and extracurricular leadership aspirations while managing stress levels.",
+            "start_time": 173.5
+          },
+          {
+            "p": "<strong>Long-Term Commitment Management</strong>: 'The most challenging part is managing the long seasons because we practice year round... it can be challenging mentally and physically to stay focused for such long periods of time.' This insight relates to your challenge of maintaining consistent high performance across multiple AP courses and extracurricular commitments throughout the school year.",
+            "start_time": 192.25
+          },
+          {
+            "p": "<strong>Intrinsic Rewards of Hard Work</strong>: 'Seeing all my hard work pay off really makes me proud and it just reinforces all the confidence I have in myself and it makes me happy that I feel like I'm making my parents proud.' This perspective offers a healthy reframing of your high-pressure academic environment, focusing on the internal satisfaction and confidence that comes from your efforts rather than external validation.",
+            "start_time": 225.5
+          },
+          {
+            "p": "<strong>Leadership Development</strong>: 'Sometimes you have to be willing to get uncomfortable and step up in a leadership role.' This directly connects to your goal of gaining leadership roles in extracurricular activities, suggesting that embracing discomfort is part of leadership growth.",
+            "start_time": 235.5
+          },
+          {
+            "p": "<strong>Transferable Skills</strong>: 'Learning those leadership skills from my teammates and the experience I've had on the field has allowed me to apply those things in the classroom.' This insight shows how your debate team and National Honor Society leadership experiences can enhance your academic performance, creating a positive cycle rather than competing priorities.",
+            "start_time": 246.62
+          }
+        ],
+        "middle_school_stem": [
+          {
+            "p": "<strong>Passion-Driven Learning</strong>: 'I love science and hands-on science activities, stuff like that.' This approach to learning could help address your challenge with algebra by connecting abstract mathematical concepts to practical applications, similar to how you understand basketball statistics and sports analytics.",
+            "start_time": 0.0
+          },
+          {
+            "p": "<strong>Ideal Student Profile</strong>: 'That is a student that middle school STEM, science, technology, engineering, mathematics is looking for.' Though your strengths lie in humanities rather than STEM, this description of an ideal student—passionate and engaged—mirrors your own dedication to academic excellence in your chosen fields, validating your approach to learning.",
+            "start_time": 9.18
+          },
+          {
+            "p": "<strong>Accelerated Learning Mindset</strong>: 'I tend to learn very quickly... I also have an interest in science and engineering.' This adaptive learning mindset is directly applicable to your high-achievement academic profile, suggesting that embracing diverse interests beyond your core subjects can enhance your college applications while providing balance to your intense focus.",
+            "start_time": 17.46
+          },
+          {
+            "p": "<strong>Rigorous Program Structure</strong>: 'The St. Mary's County Public School System has developed a rigorous and unique program of study emphasizing the core areas of mathematics and science with an infusion of technology and engineering.' This integrated approach models how your goal to 'get into a top-tier university' will likely involve programs that connect technical skills with broader academic contexts.",
+            "start_time": 28.2
+          },
+          {
+            "p": "<strong>Collaborative Project-Based Learning</strong>: 'We regularly do what's called STEM projects where we get together and we build stuff, we design stuff.' This collaborative approach directly supports your interest in debate team and National Honor Society, while potentially addressing your work-life balance challenges by making intense academic work more social and enjoyable.",
+            "start_time": 41.28
+          },
+          {
+            "p": "<strong>Tailored Educational Pathways</strong>: 'The Spring Ridge Middle School STEM Academy offers tailored mathematics, science, and technology courses.' This specialized approach to education validates your focused academic strategy of excelling in AP courses and debate, showing how depth in specific areas strengthens college applications.",
+            "start_time": 46.08
+          },
+          {
+            "p": "<strong>Current Trends Exposure</strong>: 'The courses are designed to deepen understanding of STEM learning by exposing students to the most current trends in technology engineering and science.' Similarly, staying current with developments in political science and philosophy can strengthen your debate performances and college applications while managing academic pressure through focused learning.",
+            "start_time": 54.0
+          },
+          {
+            "p": "<strong>Application and Synthesis Skills</strong>: 'The focus of STEM 6 along with the accelerated study of science and mathematics allows students the opportunity to apply learned concepts through project tasks that emphasize application and synthesis.' This approach of connecting theoretical knowledge to practical applications could help you balance your academic workload by finding meaningful connections between your debate skills and classroom learning.",
+            "start_time": 65.0
+          },
+          {
+            "p": "<strong>Research Skill Development</strong>: 'Students develop and refine research skills through science fair and capstone presentations.' These structured research activities could help you improve your reading comprehension and writing skills within concrete, visual contexts that build on your artistic strengths.",
+            "start_time": 82.65
+          },
+          {
+            "p": "<strong>Creative Problem-Solving</strong>: 'Right now we are constructing our very own Rube Goldberg machines, which are oversimplified machines to complete simple tasks.' This creative approach to problem-solving can be applied to managing your high stress levels and work-life balance challenges, finding innovative solutions to complex scheduling and academic pressure.",
+            "start_time": 95.0
+          }
+        ],
+        "planning": [
+          {
+            "p": "<strong>Dual Modes of Productivity</strong>: 'As a student, you have two modes, which I like to call planning mode and robot mode.' Understanding these distinct modes can help you balance your creative storytelling interests with the structured language learning tasks, recognizing when to plan (creative mode) versus when to execute (practice mode).",
+            "start_time": 8.0
+          },
+          {
+            "p": "<strong>Comprehensive Organization System</strong>: 'Any good organizational system worth its salt includes a task manager, a calendar, a note-taking system, and some kind of physical storage for paper documents.' Implementing this complete system could significantly reduce your stress by ensuring nothing falls through the cracks in your demanding AP course load and extracurricular commitments.",
+            "start_time": 69.0
+          },
+          {
+            "p": "<strong>Digital File Structure</strong>: 'Create a folder structure that's well-defined yet flexible... set up your computer's folders like a tree with lots of branches.' This organized approach to digital files will be invaluable for your college applications process, allowing you to easily locate and update application materials, essays, and recommendation letters.",
+            "start_time": 152.0
+          },
+          {
+            "p": "<strong>Color-Coding Calendar Events</strong>: 'With your calendar, color code events so that you can see which part of your life they represent like classes, extracurricular activities, and part-time job hours.' This visual organization technique can help you better balance your academic commitments with debate team and National Honor Society activities, addressing your work-life balance struggles.",
+            "start_time": 235.0
+          },
+          {
+            "p": "<strong>Quick Capture Method</strong>: 'Figure out the quickest, easiest way to file things into your system without compromising its structure.' This efficiency principle directly addresses your time management challenges by minimizing the overhead of staying organized, freeing up more time for both academic excellence and personal well-being.",
+            "start_time": 320.0
+          },
+          {
+            "p": "<strong>Long-Term Planning</strong>: 'If you've got an exam coming up in the next month, it's a good idea to look over everything that will be covered and then to schedule study sessions over the upcoming weeks to ensure that you don't find yourself cramming right before it.' This approach to breaking down large tasks is essential for managing your AP course load without last-minute stress.",
+            "start_time": 393.0
+          },
+          {
+            "p": "<strong>Task Batching Strategy</strong>: 'Try to batch your tasks. If you have a bunch of easy, low-energy tasks, plan ahead and combine them into one big maintenance session.' This technique can dramatically improve your work-life balance by creating larger blocks of uninterrupted time for deep work on debate preparation and AP coursework.",
+            "start_time": 458.0
+          },
+          {
+            "p": "<strong>Weekly Review Process</strong>: 'Compare what you planned to do with what you've actually got done, and if there's a gap between the two, try to figure out what caused it.' This reflective practice can help you refine your college preparation strategy over time, ensuring you're making consistent progress toward your top-tier university goals.",
+            "start_time": 480.0
+          }
+        ],
+        "science_of_motivation": [
+          {
+            "p": "<strong>Persistence Challenge</strong>: 'Whether you're trying to lose 20 pounds, get that promotion at work, or quit smoking, sticking to your goal isn't an easy task. After all, 45% of people drop their New Year's resolutions after a month.' This insight directly addresses your challenge of maintaining high performance across multiple AP courses while balancing debate team and other commitments, highlighting why consistent motivation is crucial for your academic goals.",
+            "start_time": 0.0
+          },
+          {
+            "p": "<strong>Complex Task Motivation</strong>: 'In the second task, the same students were asked to solve a more complex math problem, and this time, those offered the high reward performed 32% slower than the small reward group.' This research is particularly relevant to your AP coursework, suggesting that focusing too intensely on college admission rewards might actually impair your performance on complex academic tasks.",
+            "start_time": 32.0
+          },
+          {
+            "p": "<strong>Reward Distraction Effect</strong>: 'When we're given a task that requires problem solving, economic or emotional pressure can cause the focus to shift to the motivator, ultimately dividing your attention and reducing performance.' This explains why your high-pressure academic environment might sometimes undermine your performance, suggesting that focusing on external rewards like college admission might actually increase your stress rather than motivation.",
+            "start_time": 42.0
+          },
+          {
+            "p": "<strong>Intrinsic Motivation Advantage</strong>: 'If those offered a reward the first time are asked to participate again for no reward, scans show a decrease in activity in the anterior striatum and prefrontal areas, parts of the brain linked to self-motivation.' This research explains why finding genuine interest in your subjects, rather than focusing solely on grades or college applications, could help address your high stress levels and create more sustainable academic motivation.",
+            "start_time": 67.0
+          },
+          {
+            "p": "<strong>Play as Sustainable Motivator</strong>: 'It turns out that play is the strongest motivator for sustained behavioral changes. It makes sense that we stick with enjoyable activities.' This principle suggests that finding elements of intellectual curiosity and enjoyment in your debate preparation and AP coursework could transform your relationship with academic pressure, improving both performance and work-life balance.",
+            "start_time": 85.0
+          },
+          {
+            "p": "<strong>Goal Framing Impact</strong>: 'A study investigating reasons for exercise found that those focused on weight loss spent 32% less time exercising than those who said they want to feel better in day to day life.' Similarly, studying just for grades may be less effective than connecting algebra to your basketball aspirations, like understanding statistics or calculating trajectories.",
+            "start_time": 115.0
+          },
+          {
+            "p": "<strong>Mental Contrasting Technique</strong>: 'Imagining a goal coming true and then thinking through the obstacles that stand in your way is the best mixed approach. This is known as mental contrasting.' This evidence-based strategy could help you develop more effective plans for improving your academic performance by balancing optimism about your qualifications with realistic preparation for application challenges, addressing your need for admissions mentorship.",
+            "start_time": 152.0
+          },
+          {
+            "p": "<strong>Short-Term Motivation Strategy</strong>: 'Want some tips for motivation with short-term goals, like that assignment that's due tomorrow?' While the video doesn't elaborate on these strategies, this prompt reminds you to develop specific techniques for immediate academic tasks—like debate preparation or AP assignments—alongside your long-term college admission goals, helping maintain daily motivation despite high pressure.",
+            "start_time": 190.0
+          }
+        ],
+        "second_language": [
+          {
+            "p": "<strong>Lifelong Learning Perspective</strong>: 'Success will come when your child wants to continue learning another language for the rest of his or her life.' This long-term view of learning aligns with your college admissions goals, suggesting that presenting your academic achievements as part of a lifelong intellectual journey rather than just credentials for admission could reduce pressure while strengthening your applications.",
+            "start_time": 75.0
+          },
+          {
+            "p": "<strong>Early Cognitive Development</strong>: 'Even within the first six months of life, babies become keenly aware of the speech sounds in the language that surrounds them.' While this discusses early language acquisition, it highlights how neural plasticity and learning capacity develop early—a concept that can help you appreciate your current academic strengths as the result of years of development, reducing performance pressure.",
+            "start_time": 88.0
+          },
+          {
+            "p": "<strong>Parallel Development Processes</strong>: 'You can think of two different things happening simultaneously. The child's understanding grows and his ability to speak grows.' This dual-process perspective can help you balance your technical STEM skills with communication abilities, recognizing that comprehension (reading) and production (writing) are separate skills that develop in parallel.",
+            "start_time": 136.0
+          },
+          {
+            "p": "<strong>Active vs. Passive Learning</strong>: 'They need to interact in the language as much as possible. Passive listening is less effective.' This insight about active engagement applies directly to your AP coursework and debate preparation, suggesting that interactive study methods will yield better results than passive review, potentially reducing study time while improving outcomes.",
+            "start_time": 183.0
+          },
+          {
+            "p": "<strong>Myth Dispelling</strong>: 'Learning a second language does not harm the development of other languages. If the child is bilingual, it does not cause language disorders despite some urban myths to the contrary.' This evidence-based perspective on managing multiple domains can reassure you that pursuing excellence across multiple AP subjects and extracurriculars won't inherently create academic conflicts.",
+            "start_time": 198.0
+          },
+          {
+            "p": "<strong>Cognitive Benefits</strong>: 'In fact there are considerable social cognitive and linguistic benefits to bilingualism.' This research-backed statement supports the value of your diverse academic interests, suggesting that your involvement in both humanities (debate) and other subjects creates cognitive advantages that can strengthen your college applications.",
+            "start_time": 210.0
+          },
+          {
+            "p": "<strong>Immersion for Skill Development</strong>: 'It is also recommended that older children continue to be immersed in the language to develop their skills.' This immersion principle applies to your academic pursuits, suggesting that creating environments of total engagement with your subjects—perhaps through study groups or academic competitions—can accelerate your learning while making it more enjoyable.",
+            "start_time": 215.0
+          },
+          {
+            "p": "<strong>Necessity-Driven Learning</strong>: 'If the child needs to speak the language, that is the most effective way for them to learn it. Send them to a French cooking class, for example, in which they need to ask for a croissant in French in order to get one.' This practical approach to learning through necessity could help you create more effective study environments where you're required to apply knowledge actively, reducing stress through increased competence.",
+            "start_time": 225.0
+          },
+          {
+            "p": "<strong>Critical Period Debate</strong>: 'The idea of a critical period for language learning has been a hotly debated topic for years. You'll find some studies that support this idea and others that don't.' This research perspective relates to your current academic stage, suggesting that while your high school years are crucial for college preparation, your learning capacity remains strong, reducing pressure to achieve everything immediately.",
+            "start_time": 245.0
+          },
+          {
+            "p": "<strong>Frequency and Exposure Principle</strong>: 'It's a pretty simple formula. The earlier and more often one hears a language, the sooner they learn it.' Applied to your academic context, this reinforces the value of consistent, frequent engagement with your subjects rather than cramming, offering a more sustainable approach to managing your workload and reducing stress while maintaining high performance.",
+            "start_time": 260.0
+          }
+        ]
+      }
+    },
+    "tyler-johnson": {
+      "img": "assets/img/tyler-johnson.jpg",
+      "name": "Tyler Johnson",
+      "grade": "8th Grade",
+      "school-type": "Rural Middle School",
+      "specialties": "Hands-on Learning, Social Studies",
+      "academic-performance": {
+        "grades": "C's and D's, occasional F's",
+        "assessment-scores": "Below grade level in Math and ELA",
+        "attendance": "85% (frequent absences)"
+      },
+      "goals": [
+        "Catch up academically before entering high school",
+        "Improve attendance and engagement",
+        "Find a career path that fits his interests"
+      ],
+      "challenges": [
+        "Low motivation and engagement in school",
+        "Home life instability impacting school performance",
+        "Struggles with traditional lecture-style learning"
+      ],
+      "interests": "Automotive repair, history, video games, creative projects, hands-on learning, vocational skills",
+      "highlights": {
+        "balancing": [
+          {
+            "p": "<strong>Dual Development Focus</strong>: 'I would define student athlete as someone who is dedicated to learn both in the classroom and on the field or in the court, and they really dedicate their life and they use their talents and try to get the best out of themselves.' This balanced approach applies directly to your situation of excelling in STEM while needing to strengthen your reading and writing skills, showing how excellence requires dedication across all areas.",
+            "start_time": 42.06
+          },
+          {
+            "p": "<strong>Strategic Time Management</strong>: 'Learning to balance the academic and athlete life at IMG comes with time management and a willingness to make short sacrifices so that you can achieve your goals in the long run.' This directly addresses your need for structured guidance in time management, offering a framework for balancing your robotics and coding interests with the language arts subjects you find challenging.",
+            "start_time": 58.76
+          },
+          {
+            "p": "<strong>Priority Setting Skills</strong>: 'The most challenging aspect I think would just be finding the balance between making sure you know what your priorities are. The schedule is so tight and there's so many things you have to do in one day that you really have to focus on every little thing.' This insight provides practical guidance for structuring your time between STEM activities and improving your reading comprehension skills.",
+            "start_time": 70.0
+          },
+          {
+            "p": "<strong>Adaptation Period</strong>: 'It did take me a couple months to adapt to the experience here but once I did I really enjoyed it.' This perspective can help you approach your reading and writing challenges with patience, recognizing that improvement in non-STEM subjects may require an adjustment period before you see progress and potentially find engagement.",
+            "start_time": 85.0
+          },
+          {
+            "p": "<strong>Holistic Identity Development</strong>: 'I shouldn't associate my identity with just sports or just my grades, but beyond that it's all the valuable lessons you learn on the field or in the classroom that really shape your identity.' This insight addresses your tendency to find non-STEM subjects unengaging by suggesting that all learning experiences contribute to your development, not just the subjects where you currently excel.",
+            "start_time": 94.74
+          },
+          {
+            "p": "<strong>Academic Rigor Across Subjects</strong>: 'But I definitely think school here is not a joke. Like we have AP classes and honor classes just like everyone else. It's definitely difficult to balance with sports, but I think just with hard work, you can get through.' As someone taking multiple AP courses while maintaining straight A's, this validates your experience while emphasizing that consistent effort can lead to improvement, supporting your goal of getting into an advanced STEM program.",
+            "start_time": 116.98
+          },
+          {
+            "p": "<strong>Intrinsic Motivation</strong>: 'I have been driven to take challenging classes throughout high school I think mostly through my desire to learn and be challenged academically.' This mindset could help you reframe your approach to essay writing and reading comprehension as opportunities for growth rather than obstacles, potentially increasing your engagement with these subjects.",
+            "start_time": 130.98
+          },
+          {
+            "p": "<strong>Transferable Leadership Skills</strong>: 'I think learning those leadership skills from my teammates and the experience I've had on the field has allowed me to apply those things in the classroom.' This insight suggests how your strengths in robotics, coding, and hands-on experiments might provide approaches that could be applied to language arts, helping transform these challenges into areas of growth.",
+            "start_time": 241.4
+          }
+        ],
+        "middle_school_stem": [
+          {
+            "p": "<strong>Hands-On Learning Approach</strong>: 'I love science and hands-on science activities, stuff like that.' This opening statement perfectly aligns with your learning style and interests in 'coding, robotics club, science fairs, math puzzles,' suggesting that STEM environments that emphasize practical application could help address your challenge of finding non-STEM subjects unengaging.",
+            "start_time": 0.0
+          },
+          {
+            "p": "<strong>Interdisciplinary Career Goals</strong>: 'I also have an interest in science and engineering and I hope to become some sort of engineer or environmental lawyer.' This student's career aspirations combine STEM with communication skills, illustrating how your goal to 'improve reading and writing skills to match STEM proficiency' is essential for many advanced STEM careers that require both technical and communication abilities.",
+            "start_time": 37.0
+          },
+          {
+            "p": "<strong>Rigorous Integrated Curriculum</strong>: 'The St. Mary's County Public School System has developed a rigorous and unique program of study emphasizing the core areas of mathematics and science with an infusion of technology and engineering.' This integrated approach models how your goal to 'get into an advanced STEM program in high school' will likely involve programs that connect technical skills with broader academic contexts.",
+            "start_time": 50.0
+          },
+          {
+            "p": "<strong>Collaborative Project-Based Learning</strong>: 'We regularly do what's called STEM projects where we get together and we build stuff, we design stuff.' This collaborative approach directly supports your interest in 'robotics club' and 'engineering challenges,' while potentially addressing your need for 'structured guidance for time management' through team-based project deadlines and responsibilities.",
+            "start_time": 70.0
+          },
+          {
+            "p": "<strong>Research Skill Development</strong>: 'Students develop and refine research skills through science fair and capstone presentations.' This focus on research and presentation directly addresses your challenge with 'essay writing and reading comprehension' by showing how these communication skills are integral to success in STEM fields and competitions like the regional robotics competitions you aim to participate in.",
+            "start_time": 115.0
+          },
+          {
+            "p": "<strong>Adaptive Problem-Solving</strong>: 'Problem-solving probably like thinking of different things to do when your original plan doesn't work. So I've got about three plans that we originally tried that I changed completely.' This student's experience with iterative problem-solving demonstrates how the persistence you show in STEM subjects can be applied to your language arts challenges, trying different approaches until you find methods that work for you.",
+            "start_time": 125.0
+          }
+        ],
+        "planning": [
+          {
+            "p": "<strong>Planning vs. Robot Mode</strong>: 'As a student, you have two modes, which I like to call planning mode and robot mode... robots can only do what they're programmed to do, and they need a well-maintained environment to work in.' This distinction directly addresses your need for structured guidance in time management, suggesting that your success in STEM subjects requires both effective planning and a clean workspace for implementation.",
+            "start_time": 10.0
+          },
+          {
+            "p": "<strong>Essential Organizational Tools</strong>: 'Any good organizational system worth its salt includes a task manager, a calendar, a note-taking system, and some kind of physical storage for paper documents.' These four components provide a concrete framework for addressing your time management challenges while creating systems that can help you track assignments in both STEM and non-STEM subjects.",
+            "start_time": 90.0
+          },
+          {
+            "p": "<strong>Digital File Structure</strong>: 'Create a folder structure that's well-defined yet flexible... set up your computer's folders like a tree with lots of branches.' This practical approach to digital organization directly supports your coding interests while providing a system that can help you manage your reading and writing assignments more effectively.",
+            "start_time": 250.0
+          },
+          {
+            "p": "<strong>Breaking Down Large Projects</strong>: 'If you've just been assigned a big project, you can break that project down into small chunks and assign due dates to those chunks.' This strategy directly addresses your need for structured guidance by transforming overwhelming assignments (especially in non-STEM subjects) into manageable components with clear deadlines.",
+            "start_time": 450.0
+          },
+          {
+            "p": "<strong>Task Batching</strong>: 'If you have a bunch of easy, low-energy tasks or errands that require travel, plan ahead and combine them into one big maintenance session.' This efficiency technique can help you create more uninterrupted time for your STEM interests while ensuring you still complete necessary work in less engaging subjects.",
+            "start_time": 510.0
+          },
+          {
+            "p": "<strong>Weekly Review Process</strong>: 'Choose one day per week to do a review session... Compare what you plan to do with what you've actually got done, and if there's a gap between the two, try to figure out what caused it.' This reflective practice directly addresses your time management challenges by creating a regular checkpoint to evaluate progress and make adjustments.",
+            "start_time": 540.0
+          }
+        ],
+        "science_of_motivation": [
+          {
+            "p": "<strong>Intrinsic Motivation</strong>: 'It seems that rewards may cancel out our natural sense of play... it turns out that play is the strongest motivator for sustained behavioral changes.' This insight suggests finding enjoyable aspects in your language arts work—perhaps connecting reading assignments to your interests in science fiction or technology—could help you maintain engagement with subjects you currently find unengaging.",
+            "start_time": 70.0
+          },
+          {
+            "p": "<strong>Activity Selection Strategy</strong>: 'You might burn the most calories on a treadmill but not if you stop going after two weeks. Pick something you actually like doing.' Applied to your academic challenges, this suggests finding study methods that you enjoy and can sustain, even if they're not the most conventional approaches to improving reading comprehension or essay writing.",
+            "start_time": 90.0
+          },
+          {
+            "p": "<strong>Goal Framing Effect</strong>: 'A study investigating reasons for exercise found that those focused on weight loss spent 32% less time exercising than those who said they want to feel better in day to day life.' Similarly, studying just for grades may be less effective than connecting algebra to your basketball aspirations, like understanding statistics or calculating trajectories.",
+            "start_time": 105.0
+          },
+          {
+            "p": "<strong>Mental Contrasting Technique</strong>: 'Imagining a goal coming true and then thinking through the obstacles that stand in your way is the best mixed approach. This is known as mental contrasting.' This practical strategy can help you develop more effective plans for improving your reading and writing skills by realistically identifying potential challenges while maintaining a positive vision of success.",
+            "start_time": 145.0
+          },
+          {
+            "p": "<strong>Short-Term Motivation Strategies</strong>: 'Want some tips for motivation with short-term goals, like that assignment that's due tomorrow?' This prompt reminds you to develop specific techniques for immediate academic tasks, particularly for language arts assignments that you might be tempted to procrastinate on due to lower engagement.",
+            "start_time": 190.0
+          }
+        ],
+        "second_language": [
+          {
+            "p": "<strong>Time and Patience Principle</strong>: 'It takes time to learn another language. Parents sometimes forget this factor and expect miraculous results after a school year or an intense summer camp. We have to be patient and support them year after year.' This insight directly applies to your reading and writing challenges, suggesting that improving these skills requires consistent effort over time rather than quick fixes.",
+            "start_time": 65.0
+          },
+          {
+            "p": "<strong>Lifelong Learning Mindset</strong>: 'Success will come when your child wants to continue learning another language for the rest of his or her life.' This perspective can help you approach your language arts challenges with a growth mindset, viewing reading and writing as lifelong skills that will complement your STEM abilities throughout your career.",
+            "start_time": 75.0
+          },
+          {
+            "p": "<strong>Dual Processing Model</strong>: 'You can think of two different things happening simultaneously. The child's understanding grows and his ability to speak grows.' This dual-process perspective can help you balance your technical STEM skills with communication abilities, recognizing that comprehension (reading) and production (writing) are separate skills that develop in parallel.",
+            "start_time": 136.0
+          },
+          {
+            "p": "<strong>Active Engagement Requirement</strong>: 'They need to interact in the language as much as possible. Passive listening is less effective.' This insight about active learning directly applies to your reading comprehension challenges, suggesting that actively engaging with texts—through annotation, summarization, or discussion—will be more effective than passive reading.",
+            "start_time": 183.0
+          },
+          {
+            "p": "<strong>Cognitive Benefits</strong>: 'In fact there are considerable social cognitive and linguistic benefits to bilingualism.' This research-backed statement suggests that improving your reading and writing skills will actually enhance your cognitive abilities, potentially benefiting your performance in STEM subjects as well.",
+            "start_time": 210.0
+          },
+          {
+            "p": "<strong>Necessity-Driven Learning</strong>: 'If the child needs to speak the language, that is the most effective way for them to learn it. Send them to a French cooking class, for example, in which they need to ask for a croissant in French in order to get one.' This practical approach suggests creating situations where you need to use reading and writing skills to achieve goals that matter to you, perhaps through STEM projects that require written documentation or presentations.",
+            "start_time": 225.0
+          },
+          {
+            "p": "<strong>Critical Period Debate</strong>: 'The idea of a critical period for language learning has been a hotly debated topic for years. You'll find some studies that support this idea and others that don't.' This research perspective is encouraging for your current efforts to improve reading and writing skills, suggesting that while early learning has advantages, meaningful progress is still very possible at your age.",
+            "start_time": 250.0
+          },
+          {
+            "p": "<strong>Frequency and Exposure Principle</strong>: 'It's a pretty simple formula. The earlier and more often one hears a language, the sooner they learn it.' Applied to your reading and writing challenges, this suggests that increasing your exposure to well-written texts in areas that interest you (like science fiction or technology magazines) could accelerate your language arts development.",
+            "start_time": 270.0
+          }
+        ]
+      }
+    },
+    "ava-chen": {
+      "img": "assets/img/ava-chen.jpg",
+      "name": "Ava Chen",
+      "grade": "5th Grade",
+      "school-type": "English Language Learner (ELL) | First-Generation Student",
+      "specialties": "Art, Creative Writing, Storytelling",
+      "academic-performance": {
+        "grades": "B's and C's in most subjects, A in Art",
+        "assessment-scores": "Below average in English Language Arts (ELA)",
+        "attendance": "97% (high attendance)"
+      },
+      "goals": [
+        "Improve English fluency and reading comprehension",
+        "Gain confidence in class discussions",
+        "Excel in creative subjects like art and storytelling"
+      ],
+      "challenges": [
+        "Language barrier affects participation in class",
+        "Needs additional support in writing and reading skills",
+        "Parents are unfamiliar with the U.S. school system and curriculum"
+      ],
+      "interests": "Drawing, storytelling, poetry, world cultures, visual arts, bilingual literature",
+      "highlights": {
+        "balancing": [
+          {
+            "p": "<strong>Adaptation Process</strong>: 'It did take me a couple months to adapt to the experience here but once I did I really enjoyed it.' This reflects your experience as an English Language Learner adapting to a new educational environment, acknowledging that adjustment takes time but can lead to enjoyment and success.",
+            "start_time": 65.0
+          },
+          {
+            "p": "<strong>Holistic Identity</strong>: 'I was able to learn that I shouldn't associate my identity with just sports or just my grades, but beyond that it's all the valuable lessons you learn.' This perspective can help you see that your identity isn't limited to your English language skills, but includes your artistic talents and cultural background.",
+            "start_time": 75.0
+          },
+          {
+            "p": "<strong>Available Resources</strong>: 'Everything is here for you to succeed. You have to take advantage of it.' This encourages you to actively seek out and utilize available ELL resources, art programs, and support systems to help overcome your language barriers and excel in your creative strengths.",
+            "start_time": 90.0
+          },
+          {
+            "p": "<strong>Finding Your Community</strong>: 'I found that at Rice the community was super welcoming and supportive and the school really fit my personality well.' This highlights the importance of finding supportive communities where your bilingual background and artistic talents are valued, helping you gain confidence in class discussions.",
+            "start_time": 150.0
+          },
+          {
+            "p": "<strong>Pride in Progress</strong>: 'Seeing all my hard work pay off really makes me proud and it just reinforces all the confidence I have in myself and it makes me happy that I feel like I'm making my parents proud.' This connects to the satisfaction you'll feel as your English skills improve and you're able to better express your creative ideas.",
+            "start_time": 220.0
+          },
+          {
+            "p": "<strong>Stepping Into Discomfort</strong>: 'Sometimes you have to be willing to get uncomfortable and step up in a leadership role.' This directly addresses your goal of gaining confidence in class discussions, encouraging you to practice speaking English even when it feels uncomfortable.",
+            "start_time": 235.0
+          }
+        ],
+        "middle_school_stem": [
+          {
+            "p": "<strong>Visual and Hands-On Learning</strong>: 'I love science and hands-on science activities, stuff like that.' This emphasis on hands-on learning aligns with your visual and artistic strengths, suggesting that STEM activities could provide alternative ways for you to express your ideas beyond traditional language-based approaches.",
+            "start_time": 0.0
+          },
+          {
+            "p": "<strong>Interdisciplinary Connections</strong>: 'I also have a interest in science and engineering and I hope to become some sort of engineer or environmental lawyer.' This shows how STEM connects with communication skills, suggesting how your creative storytelling talents could complement technical subjects in future career paths.",
+            "start_time": 25.0
+          },
+          {
+            "p": "<strong>Project-Based Learning</strong>: 'We regularly do what's called STEM projects where we get together and we build stuff, we design stuff.' These collaborative projects could provide opportunities for you to practice English in a context where visual and hands-on elements support communication, helping address your participation challenges.",
+            "start_time": 45.0
+          },
+          {
+            "p": "<strong>Research Skill Development</strong>: 'Students develop and refine research skills through science fair and capstone presentations.' These structured research activities could help you improve your reading comprehension and writing skills within concrete, visual contexts that build on your artistic strengths.",
+            "start_time": 80.0
+          },
+          {
+            "p": "<strong>Creative Problem-Solving</strong>: 'Right now we are constructing our very own Rube Goldberg machines, which are oversimplified machines to complete simple tasks.' These creative engineering projects align with your storytelling abilities, allowing you to express complex ideas through visual sequences rather than relying solely on language.",
+            "start_time": 95.0
+          },
+          {
+            "p": "<strong>Iterative Process</strong>: 'Problem-solving probably like thinking of different things to do when your original plan doesn't work. So I've got about three plans that we originally tried that I changed completely.' This iterative approach mirrors language learning, where trying different communication strategies helps overcome barriers, building your confidence through persistent effort.",
+            "start_time": 110.0
+          }
+        ],
+        "planning": [
+          {
+            "p": "<strong>Dual Modes of Learning</strong>: 'As a student, you have two modes, which I like to call planning mode and robot mode.' This concept can help you balance your creative storytelling interests with the structured language learning tasks, recognizing when to plan (creative mode) versus when to execute (practice mode).",
+            "start_time": 10.0
+          },
+          {
+            "p": "<strong>Capturing Ideas</strong>: 'An idea is my personal term for any intangible information that you need to save and have easy access to later on. This can include tasks, events, and actual, you know, ideas.' Creating a system to capture your creative writing ideas and visual art concepts can help you express yourself even when language barriers feel challenging.",
+            "start_time": 50.0
+          },
+          {
+            "p": "<strong>Visual Organization</strong>: 'Any good organizational system worth its salt includes a task manager, a calendar, a note-taking system, and some kind of physical storage.' Using visual organizational tools like color-coding and diagrams can help you overcome language barriers while managing your schoolwork and creative projects.",
+            "start_time": 75.0
+          },
+          {
+            "p": "<strong>Paper vs. Digital Notes</strong>: 'This is pretty simple for paper notes. You just use paper notebooks and have a separate section or entire notebook for each class.' As someone with artistic talents, you might benefit from a hybrid system where you can incorporate drawings and visual elements alongside written notes to enhance comprehension.",
+            "start_time": 160.0
+          },
+          {
+            "p": "<strong>Visual File Structure</strong>: 'My recommendation is to set up your computer's folders like a tree with lots of branches.' This visual metaphor of a tree can help you organize your creative writing and art projects alongside your schoolwork, making it easier to find and develop your ideas.",
+            "start_time": 240.0
+          },
+          {
+            "p": "<strong>Color-Coding System</strong>: 'With your calendar, color-code events so that you can see which part of your life they represent.' Using colors and visual cues can help you manage your schedule without relying solely on written language, playing to your artistic strengths.",
+            "start_time": 310.0
+          },
+          {
+            "p": "<strong>Breaking Down Projects</strong>: 'If you've just been assigned a big project, you can similarly break that project down into small chunks and assign due dates to those chunks.' This strategy can make writing assignments less overwhelming by focusing on one small section at a time, helping you improve your English writing skills gradually.",
+            "start_time": 500.0
+          }
+        ],
+        "science_of_motivation": [
+          {
+            "p": "<strong>Intrinsic Motivation</strong>: 'It turns out that play is the strongest motivator for sustained behavioral changes.' This insight suggests focusing on the joy of creative expression in your art and storytelling rather than just grades, which can help maintain your motivation to practice English through activities you naturally enjoy.",
+            "start_time": 100.0
+          },
+          {
+            "p": "<strong>Activity Selection</strong>: 'You might burn the most calories on a treadmill but not if you stop going after two weeks. Pick something you actually like doing.' For language learning, this means choosing reading materials and writing projects that connect to your interests in art and world cultures, making English practice feel less like a chore.",
+            "start_time": 120.0
+          },
+          {
+            "p": "<strong>Goal Framing</strong>: 'Those focused on weight loss spent 32% less time exercising than those who said they want to feel better in day to day life.' Similarly, focusing on how English skills will help you share your stories and artwork with a wider audience may be more motivating than focusing solely on improving test scores.",
+            "start_time": 135.0
+          },
+          {
+            "p": "<strong>Visualization Balance</strong>: 'Imagining a goal coming true and then thinking through the obstacles that stand in your way is the best mixed approach.' When working on English fluency, balance visualizing successful communication with planning how to overcome specific language barriers you encounter in class discussions.",
+            "start_time": 160.0
+          },
+          {
+            "p": "<strong>Finding Joy in Practice</strong>: 'No Sweat by Michelle Seeger, which translates years of research on exercise and motivation into simple ideas that aim to empower you out of exercise failure.' Like physical exercise, language learning requires regular practice - finding ways to make English practice enjoyable through your artistic interests can transform it from a chore into a creative outlet.",
+            "start_time": 210.0
+          }
+        ],
+        "second_language": [
+          {
+            "p": "<strong>Natural Language Acquisition</strong>: 'Studies show that if children come into contact with another language on a natural, stable and permanent basis from birth to about three years, it is acquired along with the mother tongue.' This explains why you may find certain aspects of English challenging as you began learning it after your early childhood years, but also highlights how your creative abilities can help bridge this gap.",
+            "start_time": 40.0
+          },
+          {
+            "p": "<strong>Multisensory Learning</strong>: 'The decisive factors in the process are nervous, cognitive, emotional stimulus and the personality of the child.' This suggests incorporating your artistic talents into language learning by using visual art, storytelling, and creative writing to create emotional connections to English vocabulary and concepts.",
+            "start_time": 55.0
+          },
+          {
+            "p": "<strong>Multimodal Resources</strong>: 'Media, books and toys that the child plays with are part of the process. Everything counts.' This encourages you to engage with English through various creative media that interest you—illustrated books, art videos, poetry, and visual storytelling can all contribute to your language development.",
+            "start_time": 75.0
+          },
+          {
+            "p": "<strong>Comprehension vs. Production</strong>: 'You can think of two different things happening simultaneously. The child's understanding grows and his ability to speak grows.' This explains why you might understand more English than you can comfortably express, and suggests using your visual art skills to bridge this gap when verbal expression is challenging.",
+            "start_time": 135.0
+          },
+          {
+            "p": "<strong>Active Engagement</strong>: 'They need to interact in the language as much as possible. Passive listening is less effective.' This insight about active learning directly applies to your reading comprehension challenges, suggesting that actively engaging with texts—through annotation, summarization, or discussion—will be more effective than passive reading.",
+            "start_time": 180.0
+          },
+          {
+            "p": "<strong>Cognitive Benefits</strong>: 'There are considerable social, cognitive, and linguistic benefits to bilingualism.' Your bilingual abilities are actually a strength that enhances your creative thinking, giving you unique perspectives to express through your art and storytelling.",
+            "start_time": 210.0
+          },
+          {
+            "p": "<strong>Patience in Learning</strong>: 'It takes time to learn another language. Parents sometimes forget this factor and expect miraculous results after a school year or an intense summer camp. We have to be patient and support them year after year.' This reminds you that language learning is a gradual process, and celebrating small improvements in your English expression is important.",
+            "start_time": 85.0
+          },
+          {
+            "p": "<strong>Age-Related Challenges</strong>: 'As children get older, it becomes more difficult for them to hear many vowels and consonants that don't exist in their non-native language.' This explains some of the pronunciation challenges you might face, but also suggests that focusing on visual and written expression might be particularly valuable for you as complementary communication channels.",
+            "start_time": 115.0
+          },
+          {
+            "p": "<strong>Authentic Communication</strong>: 'If the child needs to speak the language, that is the most effective way for them to learn it. Send them to a French cooking class, for example, in which they need to ask for a croissant in French in order to get one.' Creating authentic reasons to use English through your interests—like joining an art club, sharing your stories, or describing your artwork—can accelerate your language development.",
+            "start_time": 230.0
+          },
+          {
+            "p": "<strong>Cultural Connections</strong>: 'Have them spend time with their grandmother, who only speaks that language.' This suggests the value of connecting with cultural resources and communities that can support both your English development and your appreciation of your heritage language and culture.",
+            "start_time": 245.0
+          },
+          {
+            "p": "<strong>Simple Formula for Success</strong>: 'It's a pretty simple formula. The earlier and more often one hears a language, the sooner they learn it.' While you didn't start English in early childhood, increasing your exposure through creative media you enjoy can still accelerate your progress, especially when combined with active practice.",
+            "start_time": 270.0
+          },
+          {
+            "p": "<strong>Community Engagement</strong>: 'We're building a community of global experts in communication, education and language learning.' This highlights the value of finding or creating communities where you can practice English while sharing your artistic talents and cultural perspectives, building confidence through supportive interactions.",
+            "start_time": 330.0
+          }
+        ]
+      }
+    }
+  }
+}

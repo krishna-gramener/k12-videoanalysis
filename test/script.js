@@ -47,29 +47,40 @@ const homePage = html`
           <img src="${student.img}" class="card-img-top" alt="Profile picture of ${student.name}" />
           <div class="card-body">
             <h5 class="card-title">${student.name}</h5>
-            <h6 class="card-subtitle mb-2">
-              ${student.grade} | ${student["school-type"]}
-            </h6>
+            <h6 class="card-subtitle mb-2">${student.grade} | ${student["school-type"]}</h6>
             <div class="card-text">
               <div class="mb-3">
                 <h6 class="text-primary">Academic Profile</h6>
+                <p class="mb-1"><strong>Specialties</strong>: ${student.specialties || "N/A"}</p>
                 <p class="mb-1">
-                  <strong>Specialties</strong>: ${student.specialties || 'N/A'}
+                  <strong>Grades</strong>:
+                  ${student["academic-performance"] && student["academic-performance"].grades
+                    ? student["academic-performance"].grades
+                    : "N/A"}
                 </p>
-                <p class="mb-1"><strong>Grades</strong>: ${student["academic-performance"] && student["academic-performance"].grades ? student["academic-performance"].grades : 'N/A'}</p>
-                <p class="mb-1"><strong>Assessment Scores</strong>: ${student["academic-performance"] && student["academic-performance"]["assessment-scores"] ? student["academic-performance"]["assessment-scores"] : 'N/A'}</p>
-                <p class="mb-1"><strong>Attendance</strong>: ${student["academic-performance"] && student["academic-performance"].attendance ? student["academic-performance"].attendance : 'N/A'}</p>
+                <p class="mb-1">
+                  <strong>Assessment Scores</strong>:
+                  ${student["academic-performance"] && student["academic-performance"]["assessment-scores"]
+                    ? student["academic-performance"]["assessment-scores"]
+                    : "N/A"}
+                </p>
+                <p class="mb-1">
+                  <strong>Attendance</strong>:
+                  ${student["academic-performance"] && student["academic-performance"].attendance
+                    ? student["academic-performance"].attendance
+                    : "N/A"}
+                </p>
               </div>
 
               <div class="mb-3">
                 <h6 class="text-primary">Goals & Challenges</h6>
                 <p class="mb-1"><strong>Goals</strong>:</p>
                 <ul>
-                  ${student.goals.map(goal => html`<li>${goal}</li>`)}
+                  ${student.goals.map((goal) => html`<li>${goal}</li>`)}
                 </ul>
                 <p class="mb-1"><strong>Challenges</strong>:</p>
                 <ul>
-                  ${student.challenges.map(challenge => html`<li>${challenge}</li>`)}
+                  ${student.challenges.map((challenge) => html`<li>${challenge}</li>`)}
                 </ul>
                 <p class="mb-1"><strong>Interests</strong>: ${student.interests}</p>
               </div>
@@ -195,20 +206,32 @@ async function renderApp(videoId, advisorId) {
         </div>
       </div>
       <div class="mt-3">
-        <p><strong>Specialties</strong>: ${advisor.specialties || 'N/A'}</p>
+        <p><strong>Specialties</strong>: ${advisor.specialties || "N/A"}</p>
         <p><strong>Academic Performance</strong>:</p>
         <ul>
-          <li>Grades: ${advisor["academic-performance"] && advisor["academic-performance"].grades ? advisor["academic-performance"].grades : 'N/A'}</li>
-          <li>Assessment Scores: ${advisor["academic-performance"] && advisor["academic-performance"]["assessment-scores"] ? advisor["academic-performance"]["assessment-scores"] : 'N/A'}</li>
-          <li>Attendance: ${advisor["academic-performance"] && advisor["academic-performance"].attendance ? advisor["academic-performance"].attendance : 'N/A'}</li>
+          <li>Grades: ${
+            advisor["academic-performance"] && advisor["academic-performance"].grades
+              ? advisor["academic-performance"].grades
+              : "N/A"
+          }</li>
+          <li>Assessment Scores: ${
+            advisor["academic-performance"] && advisor["academic-performance"]["assessment-scores"]
+              ? advisor["academic-performance"]["assessment-scores"]
+              : "N/A"
+          }</li>
+          <li>Attendance: ${
+            advisor["academic-performance"] && advisor["academic-performance"].attendance
+              ? advisor["academic-performance"].attendance
+              : "N/A"
+          }</li>
         </ul>
         <p><strong>Goals</strong>:</p>
         <ul>
-          ${advisor.goals.map(goal => html`<li>${goal}</li>`)}
+          ${advisor.goals.map((goal) => html`<li>${goal}</li>`)}
         </ul>
         <p><strong>Challenges</strong>:</p>
         <ul>
-          ${advisor.challenges.map(challenge => html`<li>${challenge}</li>`)}
+          ${advisor.challenges.map((challenge) => html`<li>${challenge}</li>`)}
         </ul>
         <p><strong>Interests</strong>: ${advisor.interests}</p>
       </div>
@@ -295,18 +318,18 @@ window.addEventListener("hashchange", redraw);
 // Initialize tooltips
 function initTooltips() {
   const tooltips = document.querySelectorAll('[data-bs-toggle="tooltip"]');
-  tooltips.forEach(el => {
+  tooltips.forEach((el) => {
     if (!bootstrap.Tooltip.getInstance(el)) {
       new bootstrap.Tooltip(el, {
-        trigger: 'hover',
-        placement: 'right',
-        html: false
+        trigger: "hover",
+        placement: "right",
+        html: false,
       });
     }
   });
 }
 
-document.addEventListener('DOMContentLoaded', initTooltips);
+document.addEventListener("DOMContentLoaded", initTooltips);
 
 window.onYouTubeIframeAPIReady = function () {
   player = new YT.Player("video", {

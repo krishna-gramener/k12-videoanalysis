@@ -1,10 +1,8 @@
 {
   "devDependencies": {
-    "happy-dom": "^17.5.7",
-    "vitest": "^3.2.0"
+    "happy-dom": "^17.5.7"
   },
   "scripts": {
-  "test": "vitest run"
-}
-
+    "test": "npx -y vitest@3.2.0 run"
+  }
 }

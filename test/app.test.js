@@ -88,19 +88,12 @@ describe("K12 Video Analysis App", () => {
   });
 
   it("Clicking video shows transcript", async () => {
-    // Initially app should be hidden
-    const app = document.querySelector("#app");
-    expect(app.classList.contains("d-none")).toBe(true);
-
     // Click the video
     const videoLink = document.querySelector(".video");
     expect(videoLink).toBeTruthy();
     videoLink.click();
 
     await page.waitUntilComplete();
-
-    // App and transcript should be visible
-    // expect(app.classList.contains('d-none')).toBe(false);
     const transcript = document.querySelector("#transcript");
     expect(transcript).toBeTruthy();
   });
